@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elias Torres</h1>
 <h3 align="center">A passionate frontend developer from Sv</h3>
 
-- 🔭 I’m currently working on **BCR**
+- 🔭 I’m currently working with **Angular**
 
-- 🌱 I’m currently learning **springBoot**
+- 🌱 I’m currently learning **FLUTTER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
